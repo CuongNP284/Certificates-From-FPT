@@ -1,8 +1,8 @@
 # Welcome to Certificates-From-FPT Repository
 ### You will find in this repo the following stuff:
-* Honorable Student of Semester Certification From Semester 1 to 5
+* FPT University 30% Scholarship for 4 academic years 2022 - 2026.
+* Honorable Student of Semester Certification From Semester 1 to 5.
 * Coursera Certification From Semester 1 to 5.
-* FPT University 30% Scholarship for 4 academic years 2022 - 2026
 * ...
 ### Screenshots
 
